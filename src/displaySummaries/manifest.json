@@ -1,0 +1,13 @@
+{
+  "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
+  "id": "displaySummaries",
+  "version": "1.0.0",
+  "apiLevel": 2,
+  "meta": {
+    "name": "Display Summaries",
+    "tagline": "Enables the Server Summary feature",
+    "authors": ["maggie.pi"],
+    "source": "https://example.com/"
+  }
+
+}

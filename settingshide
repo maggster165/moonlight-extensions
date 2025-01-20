@@ -1,0 +1,9 @@
+  // "settings": {
+  //  "expiryThreshold":{
+  //    "displayName": "Expiry Threshold",
+  //    "type": "string",
+  //    "default": "3",
+  //    "description": "For how long will summaries be kept? (in days)"
+
+  //  }
+  // }
