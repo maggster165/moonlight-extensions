@@ -4,11 +4,11 @@ import { ExtensionWebExports } from "@moonlight-mod/types";
 export const patches: ExtensionWebExports["patches"] = [
   {
     find: "SUMMARIZEABLE.has",
-            replace: {
-                match: /\i\.hasFeature\(\i\.\i\.SUMMARIES_ENABLED\w+?\)/g,
-                replacement: "true"
-            }
-  },
+    replace: {
+      match: /\i\.hasFeature\(\i\.\i\.SUMMARIES_ENABLED\w+?\)/g,
+      replacement: "true"
+    }
+  }
 ];
 // https://moonlight-mod.github.io/ext-dev/webpack/#webpack-module-insertion
 export const webpackModules: ExtensionWebExports["webpackModules"] = {
