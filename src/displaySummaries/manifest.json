@@ -6,8 +6,9 @@
   "meta": {
     "name": "Display Summaries",
     "tagline": "Enables the Server Summary feature",
+    "description": "Allows you to show Discord AI Summaries. Please note that currently, summaries do NOT persist through client reloads.",
     "authors": ["maggie.pi"],
-    "source": "https://example.com/"
+    "source": "https://github.com/maggster165/"
   }
 
 }
